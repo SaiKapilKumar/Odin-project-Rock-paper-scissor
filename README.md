@@ -39,15 +39,11 @@ This is a simple Rock-Paper-Scissors game created as part of The Odin Project's 
 
 ## Live Demo
 
-[View the live demo here](#) (if applicable).
+[View the live demo here](#) .
 
 ## Acknowledgments
 
 This project was created as part of The Odin Project's curriculum. Special thanks to the Odin Project for the guidance and resources.
-
-## Author
-
-[SaiKapilKumar]
 
 ## License
 
